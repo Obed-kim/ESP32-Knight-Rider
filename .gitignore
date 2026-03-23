@@ -1,0 +1,15 @@
+# Build output
+build/
+
+# ESP-IDF config (optional to ignore)
+sdkconfig.old
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log 
